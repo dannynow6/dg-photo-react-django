@@ -1,0 +1,5 @@
+dg_env 
+photo_backend/settings.py 
+photo_backend/wsgi.py 
+photo_backend/asgi.py 
+db.sqlite3 
